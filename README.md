@@ -9,5 +9,3 @@ Reference: [Blog post announcement](https://blogs.msdn.microsoft.com/azureadb2c/
 ![image](images/3.png)
 
 ![image](images/4.png)
-
-fake change to test password change
