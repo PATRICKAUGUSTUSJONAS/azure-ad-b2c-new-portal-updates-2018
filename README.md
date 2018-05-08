@@ -4,8 +4,14 @@ Reference: [Blog post announcement](https://blogs.msdn.microsoft.com/azureadb2c/
 
 ![image](images/1.png)
 
+---
+
 ![image](images/2.png)
 
+---
+
 ![image](images/3.png)
+
+---
 
 ![image](images/4.png)
